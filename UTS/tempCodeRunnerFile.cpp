@@ -1,0 +1,1 @@
+int angka5 = 5;
